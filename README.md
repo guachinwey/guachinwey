@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guachinwey
+- 👋 Hi, I’m Silvia.
 - 👀 I’m interested in Omics Data Analysis.
 - 🌱 I’m currently learning Master in Bioinformatics and Biostatistics.
 - 💞️ I’m looking to collaborate on different biomedical laboratories where a computational figure is needed.
