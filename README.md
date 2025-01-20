@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different biomedical laboratories where a computational figure is needed.
 - 📫 How to reach me: silvia.arroitajauregui@uvic.cat
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am learning to tap dance! 💫
+- ⚡ Fun fact: I am learning Scottish Gaelic! | Tha mi a'learnadh Gàidhlig na h-Alba! 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 <!---
 guachinwey/guachinwey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
